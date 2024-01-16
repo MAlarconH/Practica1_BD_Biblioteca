@@ -1,0 +1,2 @@
+insert into lectores(nombre) values ('Miguel Alarcon'), ('Henry Gavancho'), ('Neys Luna'), ('Monica Alarcon'),
+    ('Nataly Osorio'), ('Fabiano Rodriguez'), ('Ariana Conde'), ('Max Alarcon'), ('Ronaldo Rivas'), ('Martha Ramirez')
